@@ -14,9 +14,7 @@
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-<<<<<<< HEAD
               "title": "New tab"
-||||||| parent of 9849c0a (---)
               "title": "Ветки в Git"
             }
           },
@@ -48,7 +46,6 @@
               },
               "icon": "lucide-file",
               "title": "Ветки в Git"
->>>>>>> 9849c0a (---)
             }
           }
         ]
@@ -216,7 +213,7 @@
   },
   "active": "ddd58a3a6472b23c",
   "lastOpenFiles": [
-<<<<<<< HEAD
+
     "Base/Пет-проект.md",
     "Base/what is HTTP.md",
     "Base/HTTP сервер в Go.md",
@@ -226,22 +223,11 @@
     "Base/Ветки в Git.md",
     "Base/ООП в Go.md",
     "Base/Конкурентность(Concurrency) в Go.md",
-||||||| parent of 9849c0a (---)
     "Files/Pasted image 20250625215108.png",
     "Base/Clean Architecture.md",
-    "Base/Ветки в Git.md",
-=======
->>>>>>> 9849c0a (---)
     "Base/Git.md",
-<<<<<<< HEAD
     "Base/Clean Architecture.md",
-    "Files/Pasted image 20250625215108.png",
-||||||| parent of 9849c0a (---)
-=======
-    "Base/Clean Architecture.md",
-    "Files/Pasted image 20250625215108.png",
     "Base/Ветки в Git.md",
->>>>>>> 9849c0a (---)
     "Base/Golang.md",
     "Base/00 VCS(Git).md",
     "Files/Pasted image 20250604184807.png",
@@ -267,13 +253,8 @@
     "Files/POP out of steak.png",
     "Files/Push to steak.png",
     "Стек",
-<<<<<<< HEAD
-||||||| parent of 9849c0a (---)
     "Files/хорошая хэш-функция.png",
     "Base/Связный список (linked list).md",
-=======
-    "Base/Связный список (linked list).md",
->>>>>>> 9849c0a (---)
     "Хэш-таблица",
     "![[Files",
     "Files/поиск максимума массива O(n)",
