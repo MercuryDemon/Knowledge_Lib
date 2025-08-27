@@ -1,50 +1,24 @@
 {
   "main": {
-    "id": "558e0bf985641c30",
+    "id": "7c0b7aac479cddb3",
     "type": "split",
     "children": [
       {
-        "id": "c008ecf68d1479fe",
+        "id": "e6beb9badd646e86",
         "type": "tabs",
         "children": [
           {
-            "id": "ddd58a3a6472b23c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-              "title": "Ветки в Git"
-            }
-          },
-          {
-            "id": "5101a6c4e7427a0d",
+            "id": "638ff58fedfa4905",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Clean Architecture.md",
+                "file": "Base/Мапы(map) в Go.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clean Architecture"
-              "title": "Ветки в Git"
-            }
-          },
-          {
-            "id": "5101a6c4e7427a0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Ветки в Git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ветки в Git"
+              "title": "Мапы(map) в Go"
             }
           }
         ]
@@ -53,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b4020efbabed0a43",
+    "id": "c469181e702051ea",
     "type": "split",
     "children": [
       {
-        "id": "12cdf6462d5fcce9",
+        "id": "afaa0d29aaaeb173",
         "type": "tabs",
         "children": [
           {
-            "id": "f0cd20ab071c25ed",
+            "id": "68fd9abfd60c25c4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -74,7 +48,7 @@
             }
           },
           {
-            "id": "67cb018b32fc966f",
+            "id": "0f8c9070c7368ac8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -91,7 +65,7 @@
             }
           },
           {
-            "id": "3f305d53ae491e80",
+            "id": "e18cab02448b03a7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -104,24 +78,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "right": {
-    "id": "59ce87755ef1d09a",
+    "id": "a0e496dd635c6346",
     "type": "split",
     "children": [
       {
-        "id": "9d7ce804d4148d88",
+        "id": "61c4c5bfe4dccda6",
         "type": "tabs",
         "children": [
           {
-            "id": "39ade2652d8ebb2a",
+            "id": "30556455c0f89e47",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Git.md",
+                "file": "Base/Многопоточность в Go.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,31 +105,31 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Git"
+              "title": "Backlinks for Многопоточность в Go"
             }
           },
           {
-            "id": "ae88bbe238d3f4b5",
+            "id": "3a648c9f1614cf53",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Хэш-таблица (HashMap).md",
+                "file": "Base/Многопоточность в Go.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Хэш-таблица (HashMap)"
+              "title": "Outgoing links from Многопоточность в Go"
             }
           },
           {
-            "id": "e4f5f7b367201cca",
+            "id": "711961dd21698e63",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabetical",
-                "useHierarchy": false,
+                "sortOrder": "frequency",
+                "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -164,43 +138,30 @@
             }
           },
           {
-            "id": "b2b157e3a42b7ccf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Файл который теперь есть)).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Файл который теперь есть))"
-            }
-          },
-          {
-            "id": "b86246121a2773c8",
+            "id": "4dfd6681342dc445",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Хэш-таблица (HashMap).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Хэш-таблица (HashMap)"
+              "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 347.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -210,56 +171,20 @@
       "random-note:Open random note": false
     }
   },
-  "active": "ddd58a3a6472b23c",
+  "active": "638ff58fedfa4905",
   "lastOpenFiles": [
-
-    "Base/Пет-проект.md",
-    "Base/what is HTTP.md",
-    "Base/HTTP сервер в Go.md",
-    "Base/HTTP middleware.md",
-    "Base/Graceful Shutdown.md",
-    "Base/00 network.md",
-    "Base/Ветки в Git.md",
-    "Base/ООП в Go.md",
-    "Base/Конкурентность(Concurrency) в Go.md",
-    "Files/Pasted image 20250625215108.png",
-    "Base/Clean Architecture.md",
-    "Base/Git.md",
-    "Base/Clean Architecture.md",
-    "Base/Ветки в Git.md",
-    "Base/Golang.md",
-    "Base/00 VCS(Git).md",
-    "Files/Pasted image 20250604184807.png",
-    "Base/Readme.md",
-    "Files/Pasted image 20250604175734.png",
-    "Files/Pasted image 20250604174208.png",
-    "Base/Ошибки.md",
-    "Base/Паника(panic).md",
-    "Base/Контекст в Go.md",
-    "Base/Untitled 1.md",
-    "Base/Многопоточность в Go.md",
-    "Files/close chanel example.png",
-    "Files/Pasted image 20250528195155.png",
-    "Files/Отличие потоков ОС от горутин.png",
-    "Base/00 Golang.md",
     "Base/Хэш-таблица (HashMap).md",
     "Base/Мапы(map) в Go.md",
-    "Base/[Хэш-таблица (HashMap).md",
+    "Base/Массив (array).md",
+    "Base/Slice Golang.md",
+    "Files/Golang_slice_pic.png",
     "Base/00 Обучение.md",
-    "Base/Указатели(pointer) в Go.md",
-    "Base/Интерфейсы(interface) в Go.md",
-    "Files/LinkedList суть.png",
-    "Files/POP out of steak.png",
-    "Files/Push to steak.png",
-    "Стек",
-    "Files/хорошая хэш-функция.png",
-    "Base/Связный список (linked list).md",
-    "Хэш-таблица",
-    "![[Files",
-    "Files/поиск максимума массива O(n)",
-    "Daily",
-    "Files",
-    "Templates",
-    "Base"
+    "Base/Readme.md",
+    "Base/Golang.md",
+    "Base/Многопоточность в Go.md",
+    "Base/Конкурентность(Concurrency) в Go.md",
+    "Base/Dependency injection - принцип внедрениия зависимостей.md",
+    "Base/ООП в Go.md",
+    "Base/Clean Architecture.md"
   ]
 }

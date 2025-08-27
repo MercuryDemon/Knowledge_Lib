@@ -16,8 +16,9 @@ Tags: #
 
 Внешние изменения не должны влиять на внутренние слои.
 
+## Dependency injection - внедрение зависимостей
 
-Dependency injection 
+![[Dependency injection - принцип внедрениия зависимостей]]
 
 
 ### Zero-Links
