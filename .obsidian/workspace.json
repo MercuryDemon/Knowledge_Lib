@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Мапы(map) в Go.md",
+                "file": "Base/Интерфейсы(interface) в Go.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Мапы(map) в Go"
+              "title": "Интерфейсы(interface) в Go"
             }
           }
         ]
@@ -173,6 +173,10 @@
   },
   "active": "638ff58fedfa4905",
   "lastOpenFiles": [
+    "Files/Pasted image 20250829190817.png",
+    "Files/Pasted image 20250829190354.png",
+    "Files/Pasted image 20250829185248.png",
+    "Base/Мапы(map) в Go.md",
     "Files/Pasted image 20250827204557.png",
     "Files/Screenshot_2025_08_27_21_38_09_746_com_google_android_youtube 3.jpg",
     "Files/Screenshot_2025_08_27_21_38_09_746_com_google_android_youtube 2.jpg",
@@ -181,12 +185,9 @@
     "Files/Pasted image 20250827202123.png",
     "Files/Pasted image 20250827201711.png",
     "Files/Pasted image 20250827180028.png",
-    "Files/IMG_20250827_180834.jpg",
     "Base/Хэш-таблица (HashMap).md",
-    "Base/Мапы(map) в Go.md",
     "Base/Массив (array).md",
     "Base/Slice Golang.md",
-    "Files/Golang_slice_pic.png",
     "Base/00 Обучение.md",
     "Base/Readme.md",
     "Base/Golang.md",
