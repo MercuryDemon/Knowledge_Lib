@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "e6beb9badd646e86",
+        "id": "5dd0b82305103bb9",
         "type": "tabs",
         "children": [
           {
-            "id": "638ff58fedfa4905",
+            "id": "b232bc16b3fbe08d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Интерфейсы(interface) в Go.md",
+                "file": "Base/Ассинхронное програмирование.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Интерфейсы(interface) в Go"
+              "title": "Ассинхронное програмирование"
+            }
+          },
+          {
+            "id": "1b46c2264780ab3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Контекст в Go.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Контекст в Go"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,11 +89,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 272.5,
     "collapsed": true
   },
   "right": {
@@ -95,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Многопоточность в Go.md",
+                "file": "Base/Контекст в Go.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +121,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Многопоточность в Go"
+              "title": "Backlinks for Контекст в Go"
             }
           },
           {
@@ -114,12 +130,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Многопоточность в Go.md",
+                "file": "Base/Контекст в Go.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Многопоточность в Go"
+              "title": "Outgoing links from Контекст в Go"
             }
           },
           {
@@ -151,8 +167,7 @@
               "title": "Outline"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -171,28 +186,45 @@
       "random-note:Open random note": false
     }
   },
-  "active": "638ff58fedfa4905",
+  "active": "1b46c2264780ab3e",
   "lastOpenFiles": [
-    "Files/Pasted image 20250829190817.png",
-    "Files/Pasted image 20250829190354.png",
-    "Files/Pasted image 20250829185248.png",
-    "Base/Мапы(map) в Go.md",
-    "Files/Pasted image 20250827204557.png",
-    "Files/Screenshot_2025_08_27_21_38_09_746_com_google_android_youtube 3.jpg",
-    "Files/Screenshot_2025_08_27_21_38_09_746_com_google_android_youtube 2.jpg",
-    "Files/Screenshot_2025_08_27_21_38_09_746_com_google_android_youtube 1.jpg",
-    "Files/Screenshot_2025_08_27_21_38_09_746_com_google_android_youtube.jpg",
-    "Files/Pasted image 20250827202123.png",
-    "Files/Pasted image 20250827201711.png",
-    "Files/Pasted image 20250827180028.png",
-    "Base/Хэш-таблица (HashMap).md",
-    "Base/Массив (array).md",
-    "Base/Slice Golang.md",
-    "Base/00 Обучение.md",
+    "Base/Graceful Shutdown.md",
+    "Base/Sheduler Go (Планировщик).md",
+    "Base/Ассинхронное програмирование.md",
+    "Files/Pasted image 20250909192850.png",
+    "Files/Pasted image 20250909192325.png",
+    "Base/00 Golang.md",
+    "Base/00 Computer science.md",
+    "Files/Pasted image 20250908221059.png",
+    "Files/Pasted image 20250908220205.png",
+    "Files/Pasted image 20250908215111.png",
+    "Files/Pasted image 20250908214506.png",
+    "Files/Pasted image 20250908204048.png",
+    "Files/Pasted image 20250908202753.png",
     "Base/Readme.md",
-    "Base/Golang.md",
+    "Base/Slice Golang.md",
+    "Base/what is HTTP.md",
+    "Base/Untitled.md",
+    "Base/Untitled.base",
+    "Base/Untitled 7.base",
+    "Base/Untitled 8.base",
+    "Base/Untitled 6.base",
+    "Base/Untitled 4.base",
+    "Base/Untitled 5.base",
+    "Base/Untitled 3.base",
+    "Base/Планировщик Go",
+    "Base/Untitled 2.base",
+    "Base/Untitled 1.base",
     "Base/Многопоточность в Go.md",
     "Base/Конкурентность(Concurrency) в Go.md",
+    "Base/Интерфейсы(interface) в Go.md",
+    "Files/close chanel example.png",
+    "Files/Pasted image 20250829190817.png",
+    "Base/Мапы(map) в Go.md",
+    "Base/Хэш-таблица (HashMap).md",
+    "Base/Массив (array).md",
+    "Base/00 Обучение.md",
+    "Base/Golang.md",
     "Base/Dependency injection - принцип внедрениия зависимостей.md",
     "Base/ООП в Go.md",
     "Base/Clean Architecture.md"
