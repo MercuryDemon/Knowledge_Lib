@@ -354,7 +354,7 @@ mux.HandleFunc("/info", infoHandler)
 
 # Middleware 
 
-![[HTTP middleware]]
+![[HTTP middleware(Сеть в Go)]]
 
 
 # 

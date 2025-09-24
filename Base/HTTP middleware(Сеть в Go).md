@@ -1,5 +1,5 @@
 18-06-2025 21:56
-Tags: #z #lesson
+Tags: #z #lesson #Go 
 #  Middleware
 
 В контексте веб-разработки **middleware** выполняет роль промежуточного звена между клиентом и сервером, обрабатывая HTTP-запросы до того, как они будут переданы в конечные обработчики. Middleware широко используется в Go-фреймворках Gin, Echo и Chi.
@@ -127,6 +127,7 @@ Content-Type: text/plain; charset=utf-8
 ### Zero-Links
 - [[00 network]]
 - [[00 Обучение]]
+- [[00 network]]
 
 
 ### Links
