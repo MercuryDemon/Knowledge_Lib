@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "69388614bc0afb10",
+            "id": "fc54906bcc0525b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Фремворки (Framework).md",
+                "file": "Base/SQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Фремворки (Framework)"
-            }
-          },
-          {
-            "id": "dc68897727c0703d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Логгирование (Logger).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Логгирование (Logger)"
+              "title": "SQL"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ppr",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,8 +170,14 @@
       "random-note:Open random note": false
     }
   },
-  "active": "dc68897727c0703d",
+  "active": "fc54906bcc0525b5",
   "lastOpenFiles": [
+    "Base/00 Data_Base.md",
+    "Base/SQL.md",
+    "Base/Шаблоны в Go(Templates).md",
+    "Base/WebSocket (веб-сокеты).md",
+    "Base/Untitled.md",
+    "Base/00 network.md",
     "Base/Логгирование (Logger).md",
     "Base/Фремворки (Framework).md",
     "Base/Бинарное дерево (BST-binary search tree).md",
@@ -205,18 +196,12 @@
     "Base/Benchmarks and performance.md",
     "Base/Многопоточность в Go.md",
     "Base/Untitled 1.base",
-    "Base/Шаблоны в Go(Templates).md",
     "Base/JSON в Go.md",
     "Base/Codegen(Кодогенерация).md",
     "Base/Slice Golang.md",
     "Base/Ассинхронное програмирование.md",
-    "Base/Контекст в Go.md",
-    "Base/Graceful Shutdown.md",
-    "Base/Sheduler Go (Планировщик).md",
     "Files/Pasted image 20250909192850.png",
     "Files/Pasted image 20250909192325.png",
-    "Base/00 Golang.md",
-    "Base/00 Computer science.md",
     "Files/Pasted image 20250908221059.png",
     "Files/Pasted image 20250908220205.png",
     "Files/Pasted image 20250908215111.png",
