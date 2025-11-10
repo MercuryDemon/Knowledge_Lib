@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/SOLID & DRY.md",
+                "file": "Base/SQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SOLID & DRY"
+              "title": "SQL"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sql",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,8 +173,8 @@
   },
   "active": "c97c2d4d74e22b85",
   "lastOpenFiles": [
-    "Files/Pasted image 20251023205742.png",
     "Base/SOLID & DRY.md",
+    "Files/Pasted image 20251023205742.png",
     "Base/SQL в Go.md",
     "Base/Dependency injection - принцип внедрениия зависимостей.md",
     "Base/SQL.md",
@@ -189,7 +189,6 @@
     "Base/00 SQL.md",
     "Files/Pasted image 20251013215805.png",
     "Files/Pasted image 20251013214041.png",
-    "Files/Pasted image 20251013213440.png",
     "Base/Базы данных (Data base).md",
     "Base/[[Базы.md",
     "home/zhuk/Knowledge_Lib/Base/Базы.md",
