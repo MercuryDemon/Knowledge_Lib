@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -187,6 +188,10 @@
   },
   "active": "d17c3b14e101dd2a",
   "lastOpenFiles": [
+    "Files/Pasted image 20251226211703.png",
+    "Files/Pasted image 20251226210332 1.png",
+    "Files/Pasted image 20251226210332.png",
+    "Files/Pasted image 20251226204135.png",
     "Files/Pasted image 20251218224152.png",
     "Files/Pasted image 20251218221915.png",
     "Files/Pasted image 20251218221414.png",
@@ -194,10 +199,6 @@
     "Files/Pasted image 20251218213541.png",
     "Files/Pasted image 20251218212658.png",
     "Files/Pasted image 20251218212645.png",
-    "Files/Pasted image 20251218212209.png",
-    "Files/Pasted image 20251218212205.png",
-    "Files/Pasted image 20251218212038.png",
-    "Files/Pasted image 20251218211644.png",
     "Base/No SQL.md",
     "Base/Apache Kafka.md",
     "Base/00 Data_Base.md",
