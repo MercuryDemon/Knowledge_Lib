@@ -22,46 +22,31 @@
             }
           },
           {
-            "id": "74effc817f08894e",
+            "id": "4a74b09d95deb687",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Stateful vs stateless wed-services design.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Stateful vs stateless wed-services design"
-            }
-          },
-          {
-            "id": "e9aefde2ce45680b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/JWT token. Токены.md",
+                "file": "Base/Metrics (Метрики).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JWT token. Токены"
+              "title": "Metrics (Метрики)"
             }
           },
           {
-            "id": "9a154bb7958a297a",
+            "id": "92ac9291458e410a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Sessions.  Сессии..md",
+                "file": "Base/Prometheus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sessions.  Сессии."
+              "title": "Prometheus"
             }
           }
         ],
@@ -215,11 +200,15 @@
       "random-note:Open random note": false
     }
   },
-  "active": "e9aefde2ce45680b",
+  "active": "92ac9291458e410a",
   "lastOpenFiles": [
+    "Files/Pasted image 20260212214431.png",
+    "Base/Metrics (Метрики).md",
+    "Base/Prometheus.md",
     "Base/Sessions.  Сессии..md",
     "Base/JWT token. Токены.md",
     "Base/Stateful vs stateless wed-services design.md",
+    "Base/No SQL.md",
     "Files/Pasted image 20260209214718.png",
     "Files/Pasted image 20260209214505.png",
     "Base/Ветки в Git.md",
@@ -229,7 +218,6 @@
     "Base/Git.md",
     "Base/Пет-проект.md",
     "Base/Redis.md",
-    "Base/No SQL.md",
     "Files/Pasted image 20260114221456.png",
     "Files/Pasted image 20260114220406.png",
     "Base/Кэширование.md",
@@ -250,8 +238,6 @@
     "Base/SQL.md",
     "Base/Ошибки.md",
     "Base/SOLID & DRY.md",
-    "Base/SQL в Go.md",
-    "Base/Dependency injection - принцип внедрениия зависимостей.md",
     "Base/Untitled.base",
     "home/zhuk/Knowledge_Lib/Base",
     "home/zhuk/Knowledge_Lib",
