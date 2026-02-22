@@ -55,3 +55,14 @@ Tags: #z #lesson #Go
 
 
 
+
+
+
+
+## Sheduler Go
+
+![[Sheduler Go (Планировщик)]]
+
+
+## Паника
+![[Паника(panic)]]
