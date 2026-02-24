@@ -29,7 +29,8 @@
               "state": {
                 "file": "Base/Prometheus.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Prometheus"
@@ -120,35 +121,21 @@
             }
           },
           {
-            "id": "ed0399a2e04d6c0c",
+            "id": "dfe36ff493f4a197",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Sheduler Go (Планировщик).md",
+                "file": "Base/SQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sheduler Go (Планировщик)"
-            }
-          },
-          {
-            "id": "1c41008ebb6316fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Паника(panic).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Паника(panic)"
+              "title": "SQL"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,7 +167,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "горутины",
+                "query": "Алгори",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -297,34 +284,37 @@
       "random-note:Open random note": false
     }
   },
-  "active": "1c41008ebb6316fa",
+  "active": "92ac9291458e410a",
   "lastOpenFiles": [
-    "Base/Golang.md",
-    "Base/Sheduler Go (Планировщик).md",
-    "Base/Многопоточность в Go.md",
-    "Base/Паника(panic).md",
-    "Base/ООП в Go.md",
-    "Base/Конкурентность(Concurrency) в Go.md",
-    "Base/Ошибки.md",
-    "Base/Контекст в Go.md",
-    "Base/Структуры Данных(Data struct).md",
-    "Base/Benchmarks and performance.md",
-    "Base/Связный список (linked list).md",
-    "Base/00 Golang.md",
-    "Base/gRPC.md",
-    "Base/SOLID & DRY.md",
+    "Base/00 Алгоритмы.md",
     "Base/Нотация O. Оценка сложности Алгоритма.md",
-    "Base/Clean Architecture.md",
-    "Base/Стек как структура данных.md",
-    "Base/Slice Golang.md",
-    "Base/Telegram_bot.md",
     "Base/Prometheus.md",
+    "Base/Metrics (Метрики).md",
+    "Base/gRPC.md",
+    "Base/SQL.md",
+    "Base/Index SQL.md",
+    "Base/ASID.md",
+    "Base/Легенда.md",
+    "Base/Sheduler Go (Планировщик).md",
+    "Base/Ассинхронное програмирование.md",
+    "Base/Redis.md",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Base/Базы данных (Data base).md",
+    "Base/SQL в Go.md",
+    "Base/Пет-проект.md",
+    "Base/00 Pet_project.md",
+    "Base/Шардирование+репликакция.md",
+    "Base/Кэширование.md",
+    "Base/00 SQL.md",
+    "Base/SOLID & DRY.md",
     "Base/Dependency injection - принцип внедрениия зависимостей.md",
-    "Base/00 Data type.md",
-    "Base/Динамический массив (dynamic array).md",
-    "Base/Массив (array).md",
-    "Base/Мапы(map) в Go.md",
-    "Base/Указатели(pointer) в Go.md",
+    "Base/WebSocket (веб-сокеты).md",
+    "Base/Файл который теперь есть)).md",
+    "home/zhuk/Knowledge_Lib/Base/Базы.md",
+    "Untitled.canvas",
+    "Base/Golang.md",
+    "Base/Паника(panic).md",
     "Files/Pasted image 20260220214056.png",
     "Files/photo_2026-02-19_21-11-02.jpg",
     "Files/Pasted image 20260220213446.png",

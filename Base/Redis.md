@@ -53,9 +53,12 @@ leaderboard реализовыан через структуру данных ZS
 
 
 ### Zero-Links
--
+- [[00 Data_Base]]
+- [[00 Обучение]]
 
 
 ### Links
--
+- [https://youtu.be/iLMlYgQoTIE?si=Fvh09EmVerOJnsvv](https://youtu.be/iLMlYgQoTIE?si=Fvh09EmVerOJnsvv)
+
+
 

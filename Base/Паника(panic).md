@@ -21,7 +21,7 @@ func NeverExit (name string, action func()) {
 	defer func() {
 		if v := recover(); v != nil {
 			log.Println(name, "is crashed restarting")
-			go NeverExit(name, action) // нет рекурсии, есть свой стек
+			go NeverExit(name, action) // нет рекурсии, так как есть свой стек
 		}
 	}()
 	if action != nil {

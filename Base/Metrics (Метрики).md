@@ -56,9 +56,12 @@ Time Series Database - база данных временны́х рядов. Э
 
 
 ### Zero-Links
--
+- [[00 Обучение]]
+- [[00 Computer science]]
 
 
 ### Links
 -
+
+
 
