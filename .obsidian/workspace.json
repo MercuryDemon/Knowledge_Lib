@@ -37,20 +37,6 @@
             }
           },
           {
-            "id": "dc38937816580c02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/gRPC.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "gRPC"
-            }
-          },
-          {
             "id": "dcec18f5708160a5",
             "type": "leaf",
             "state": {
@@ -167,7 +153,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Алгори",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -286,11 +272,12 @@
   },
   "active": "92ac9291458e410a",
   "lastOpenFiles": [
+    "Base/Структуры Данных(Data struct).md",
+    "Base/gRPC.md",
+    "Base/Prometheus.md",
     "Base/00 Алгоритмы.md",
     "Base/Нотация O. Оценка сложности Алгоритма.md",
-    "Base/Prometheus.md",
     "Base/Metrics (Метрики).md",
-    "Base/gRPC.md",
     "Base/SQL.md",
     "Base/Index SQL.md",
     "Base/ASID.md",
@@ -314,7 +301,6 @@
     "home/zhuk/Knowledge_Lib/Base/Базы.md",
     "Untitled.canvas",
     "Base/Golang.md",
-    "Base/Паника(panic).md",
     "Files/Pasted image 20260220214056.png",
     "Files/photo_2026-02-19_21-11-02.jpg",
     "Files/Pasted image 20260220213446.png",
