@@ -194,8 +194,8 @@ http_requests_total{job="prometheus",group="canary"}[5m]
 
 Range vector чтобы вывести на график, нужно агрегировать(обработать) в instant vector
 
-
-
+#
+ 
 
 
 
