@@ -314,6 +314,8 @@ func main() {
 Это полезно если мы не хотим ждать ответа от сервера целый день)))
 
 
+# 
+
 ### Zero-Links
 - [[00 Golang]]
 - [[00 Обучение]]
@@ -322,4 +324,5 @@ func main() {
 ### Links
 - https://stepik.org/course/100208/syllabus
 - https://habr.com/en/articles/490336/
+
 
