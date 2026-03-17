@@ -211,6 +211,20 @@
             }
           },
           {
+            "id": "977da8211e895cd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Clickhouse.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Clickhouse"
+            }
+          },
+          {
             "id": "3319994a224f6a95",
             "type": "leaf",
             "state": {
@@ -223,9 +237,37 @@
               "icon": "lucide-file",
               "title": "Закрытие пробелов"
             }
+          },
+          {
+            "id": "3bbfe75d987e1c2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Soft skills. Софты.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Soft skills. Софты"
+            }
+          },
+          {
+            "id": "940874a139017c17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/copy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "copy"
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -376,18 +418,29 @@
   },
   "active": "3319994a224f6a95",
   "lastOpenFiles": [
+    "Base/Clickhouse.md",
+    "Files/Pasted image 20260317144918.png",
+    "Files/Pasted image 20260317144754.png",
+    "Base/Архитектура.md",
+    "Files/Pasted image 20260317135935.png",
+    "Files/Pasted image 20260317134810.png",
+    "Files/Pasted image 20260317134324.png",
+    "Files/Pasted image 20260317134229.png",
+    "Base/SAGA.md",
+    "Base/copy.md",
+    "Base/Контекст в Go.md",
+    "Base/Закрытие пробелов.md",
+    "Base/Soft skills. Софты.md",
     "Base/Golang.md",
+    "Base/Untitled.md",
     "Base/Конкурентность(Concurrency) в Go.md",
     "Base/Примитивы Синхронизации.md",
     "Base/Sheduler Go (Планировщик).md",
-    "Base/Закрытие пробелов.md",
     "Base/ООП в Go.md",
     "Base/Многопоточность в Go.md",
-    "Base/Контекст в Go.md",
     "Base/Prometheus.md",
     "Base/Структуры Данных(Data struct).md",
     "Base/Apache Kafka.md",
-    "Base/Архитектура.md",
     "Base/Graceful Shutdown.md",
     "Base/Легенда.md",
     "Base/Redis.md",
@@ -398,23 +451,11 @@
     "Files/Pasted image 20260226215404.png",
     "Base/gRPC.md",
     "Base/00 Алгоритмы.md",
-    "Base/Нотация O. Оценка сложности Алгоритма.md",
-    "Base/Index SQL.md",
-    "Base/ASID.md",
-    "Base/Ассинхронное програмирование.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
-    "Base/Базы данных (Data base).md",
-    "Base/SQL в Go.md",
     "Untitled.canvas",
     "Files/Pasted image 20260220214056.png",
     "Files/photo_2026-02-19_21-11-02.jpg",
-    "Files/Pasted image 20260220213446.png",
-    "Files/Pasted image 20260220203125.png",
-    "Files/Pasted image 20260220203109.png",
-    "Files/Pasted image 20260220203029.png",
-    "Files/Pasted image 20260220202747.png",
-    "Files/order service.png",
     "Base/Untitled.base",
     "home/zhuk/Knowledge_Lib/Base",
     "home/zhuk/Knowledge_Lib",
